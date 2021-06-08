@@ -40,7 +40,7 @@ parameters==0.2.1
 parsel==1.5.2
 parso==0.5.1
 pdfminer==20191125
-Pillow==6.2.1
+Pillow==8.2.0
 prompt-toolkit==3.0.2
 Protego==0.1.15
 pyasn1==0.4.8
