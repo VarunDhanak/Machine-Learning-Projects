@@ -19,7 +19,7 @@ hvplot==0.5.2
 hyperlink==19.0.0
 idna==2.10
 incremental==17.5.0
-ipython==7.10.0
+ipython==7.16.3
 itsdangerous==1.1.0
 jedi==0.15.1
 Jinja2==2.10.3
